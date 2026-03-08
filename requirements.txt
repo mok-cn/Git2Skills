@@ -1,0 +1,6 @@
+# Git2Skills 项目依赖
+# Python 3.8+ required
+
+# Core dependencies
+anthropic>=0.34.0       # Claude API client
+gitpython>=3.1.0        # Git repository operations
