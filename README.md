@@ -76,7 +76,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/mok_cn/Git2Skills.git
+git clone https://github.com/mok-cn/Git2Skills.git
 cd Git2Skills
 
 # 安装依赖（使用 uv 或 pip）
@@ -101,7 +101,7 @@ echo "ANTHROPIC_API_KEY=your-api-key-here" > .env
 
 ```bash
 python git2skills.py \
-  --git-url="https://github.com/mok_cn/your-repo" \
+  --git-url="https://github.com/mok-cn/your-repo" \
   --output-dir="output" \
   --focus="api" \
   --depth="medium"
@@ -292,9 +292,9 @@ public class UserRequest {
 
 ### 📞 联系方式
 
-- **项目地址**：https://github.com/mok_cn/Git2Skills
-- **问题反馈**：https://github.com/mok_cn/Git2Skills/issues
-- **讨论区**：https://github.com/mok_cn/Git2Skills/discussions
+- **项目地址**：https://github.com/mok-cn/Git2Skills
+- **问题反馈**：https://github.com/mok-cn/Git2Skills/issues
+- **讨论区**：https://github.com/mok-cn/Git2Skills/discussions
 - **wechat**：
 
 ### 🙏 致谢
@@ -379,7 +379,7 @@ Made with ❤️ by Git2Skills Team
 
 ```bash
 # Clone the project
-git clone https://github.com/mok_cn/Git2Skills.git
+git clone https://github.com/mok-cn/Git2Skills.git
 cd Git2Skills
 
 # Install dependencies (using uv or pip)
@@ -404,7 +404,7 @@ echo "ANTHROPIC_API_KEY=your-api-key-here" > .env
 
 ```bash
 python git2skills.py \
-  --git-url="https://github.com/mok_cn/your-repo" \
+  --git-url="https://github.com/mok-cn/your-repo" \
   --output-dir="output" \
   --focus="api" \
   --depth="medium"
@@ -595,9 +595,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ### 📞 Contact
 
-- **Project URL**: https://github.com/mok_cn/Git2Skills
-- **Issue Tracker**: https://github.com/mok_cn/Git2Skills/issues
-- **Discussions**: https://github.com/mok_cn/Git2Skills/discussions
+- **Project URL**: https://github.com/mok-cn/Git2Skills
+- **Issue Tracker**: https://github.com/mok-cn/Git2Skills/issues
+- **Discussions**: https://github.com/mok-cn/Git2Skills/discussions
 - **Email**: 
 
 ### 🙏 Acknowledgments
